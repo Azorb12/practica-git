@@ -1,0 +1,10 @@
+Nombre: Azaelmail: azaelcrtz3@gmail.com\GitHub: Azorb12"> creditos.txt
+git add creditos.txt
+git commit -m Se añadieron créditos
+git checkout master
+git merge creditos
+git remote add origin https://github.com/Azorb12/practica-git.git
+git push -u origin main
+
+ 
+echo -e Nombre: AzaelEmail: azaelcrtz3@gmail.comGitHub: github.com/Azorb12"
